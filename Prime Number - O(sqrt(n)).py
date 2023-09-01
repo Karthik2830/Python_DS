@@ -12,6 +12,11 @@ Input:
 15
 Output:
 Given number is not a prime number
+++++++++++  +++++++++  +++++++     +++++++++
++           +       +  +      +    +
++           +       +  +       +   +++++++++
++           +       +  +      +    +
+++++++++++  +++++++++  +++++++     +++++++++
 ""code starts here """
 import math
 def is_prime(n):
